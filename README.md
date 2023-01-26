@@ -9,7 +9,7 @@ The list is incomplete, help us extend it!
 Edit / Preferences / Keymap / Top left dropdown select "Industry Compatible"
 
 ## General
-| Key |  |
+|||
 | :---: | --- |
 | **`1`** | Edit Mode - Vertex |
 | **`2`** | Edit Mode - Edge |
@@ -21,7 +21,7 @@ Edit / Preferences / Keymap / Top left dropdown select "Industry Compatible"
 | **`8`** | Texture Paint |
 
 ## Edit Mode
-| Key |  |
+|||
 | :---: | --- |
 | **`W`** | Move |
 | **`E`** | Rotate |
